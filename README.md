@@ -1,7 +1,7 @@
 # LandingPage
-** MANAGEWISE **
+**SCHOLR**
 Integrantes:  
-Estefano Oscar Jaque Peña - u202225466  
-John Telesforo Arevalo Meza - u202117377  
-Valentino Sandoval Paiva - u20211a962  
-Sergio André Gómez Vallejos - u20221d401  
+* Estefano Oscar Jaque Peña
+* Sebastian Omar Real Calderón
+* John Telesforo Arevalo Meza
+* Diego Alonso Rosado Iporre
