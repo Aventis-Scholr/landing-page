@@ -1129,4 +1129,10 @@ img {
   .form-card {
     padding: 1.5rem;
   }
+
+  .about-video iframe {
+  border-radius: var(--border-radius);
+  box-shadow: var(--shadow);
+  max-width: 100%;
+}
 }
